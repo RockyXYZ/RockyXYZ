@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Rohan 👋
 
 <!--
 **RockyXYZ/RockyXYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
